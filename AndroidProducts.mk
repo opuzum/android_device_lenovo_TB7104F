@@ -1,1 +1,5 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/omni_TB7104F.mk
 
+COMMON_LUNCH_CHOICES := \
+    omni_TB7104F-eng
